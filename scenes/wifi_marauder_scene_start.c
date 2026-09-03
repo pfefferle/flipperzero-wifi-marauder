@@ -249,7 +249,7 @@ const WifiMarauderItem items[NUM_MENU_ITEMS] = {
      NO_ARGS,
      FOCUS_CONSOLE_END,
      NO_TIP},
-    {"NMEA Stream", {""}, 1, {"nmea"}, NO_ARGS, FOCUS_CONSOLE_END, NO_TIP},
+    {"NMEA Stream", {""}, 1, {"nmea"}, NO_ARGS, FOCUS_CONSOLE_END, SHOW_STOPSCAN_TIP},
     {"GPS POI",
      {"start", "mark", "end"},
      3,
